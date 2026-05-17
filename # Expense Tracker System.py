@@ -13,6 +13,7 @@ root.geometry("550x550")
 root.resizable(False, False)
 root.config(bg="#EAF4FC")
 
+
 # -----------------------------
 # Variables
 # -----------------------------
